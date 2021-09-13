@@ -1,1 +1,11 @@
-
+wpad
+wpad.corp
+wpad.example
+wpad.home
+wpad.lan
+wpad.local
+wpad.mail
+wpad.test
+version.bind
+id.server
+hostname.bind
