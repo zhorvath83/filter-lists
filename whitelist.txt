@@ -1,2 +1,2 @@
-opten.hu
-s.click.aliexpress.com
+@@||opten.hu^
+@@||aliexpress.com^
