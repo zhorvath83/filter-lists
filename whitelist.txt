@@ -3,3 +3,4 @@
 @@||opten.hu^$important
 @@||aliexpress.com^$important
 @@||d1wp6m56sqw74a.cloudfront.net^$important
+@@||weather-analytics-events.apple.com^$important
