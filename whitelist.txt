@@ -1,5 +1,3 @@
-# DNS filtering rules syntax
-# https://adguard-dns.io/kb/general/dns-filtering-syntax/
 @@||opten.hu^$important
 @@||aliexpress.com^$important
 @@||d1wp6m56sqw74a.cloudfront.net^$important
