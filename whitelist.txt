@@ -1,7 +1,5 @@
-# DNS filtering rules syntax
-# https://adguard-dns.io/kb/general/dns-filtering-syntax/
-opten.hu
-aliexpress.com
+(\.|^)opten\.hu$
+(\.|^)aliexpress\.com$
 d1wp6m56sqw74a.cloudfront.net
 weather-analytics-events.apple.com
-banggood.com
+(\.|^)banggood\.com$
