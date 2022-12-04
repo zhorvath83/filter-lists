@@ -1,5 +1,6 @@
-(\.|^)opten\.hu$
-(\.|^)aliexpress\.com$
+# DNS filtering rules syntax
+opten.hu
+s.click.aliexpress.com
 d1wp6m56sqw74a.cloudfront.net
 weather-analytics-events.apple.com
-(\.|^)banggood\.com$
+banggood.com
