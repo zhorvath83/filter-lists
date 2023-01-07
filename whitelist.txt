@@ -1,8 +1,8 @@
 # DNS filtering rules syntax
-opten.hu
-s.click.aliexpress.com
-d1wp6m56sqw74a.cloudfront.net
-weather-analytics-events.apple.com
-banggood.com
-login-online.mkb.hu
-gs-loc.apple.com
+@@||opten.hu^$important
+@@||aliexpress.com^$important
+@@||d1wp6m56sqw74a.cloudfront.net^$important
+@@||weather-analytics-events.apple.com^$important
+@@||banggood.com^$important
+@@||login-online.mkb.hu^$important
+@@||gs-loc.apple.com^$important
