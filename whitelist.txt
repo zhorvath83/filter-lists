@@ -7,3 +7,4 @@
 @@||login-online.mkb.hu^$important
 @@||gs-loc.apple.com^$important
 @@||mbhbank.hu^$important
+@@||dereferer.me^$important
