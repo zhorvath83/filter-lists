@@ -8,3 +8,4 @@
 @@||gs-loc.apple.com^$important
 @@||mbhbank.hu^$important
 @@||dereferer.me^$important
+@@||pcfg.cache.wpscdn.com^$important
