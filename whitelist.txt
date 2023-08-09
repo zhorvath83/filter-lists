@@ -9,3 +9,4 @@
 @@||mbhbank.hu^$important
 @@||dereferer.me^$important
 @@||pcfg.cache.wpscdn.com^$important
+@@||link.curve.com^$important
